@@ -1,2 +1,2 @@
-# recommendations
+# Recommendations
 Learning recommendations ML algos
